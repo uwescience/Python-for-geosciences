@@ -18,12 +18,12 @@ In recent years, the Python programming language has emerged as a popular choice
 
 | Date | Speaker | Title |
 | ---- | ---- | ---- |
-| Oct. 6, 2015 | [Joe Hamman](http://joehamman.com/) | Data analysis tools for modern Python: pandas, xray, and beyond |
+| Oct. 6, 2015 | [Joe Hamman](http://joehamman.com/) | Data analysis tools for modern Python: pandas, xray, and beyond |
 | Nov. 3, 2015 | [Emilio Mayorga](http://staff.washington.edu/emiliom/) | TBD |
 | Dec. 1, 2015 | [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/) | TBD |
 
 
 ### Other Workshops / Seminars / Resources:
-- Atmos-Python Workshop:atmos-python@uw.edu - (Andre or Jeremy)
+- Atmos-Python Workshop:atmos-python@uw.edu - (Andre or Jeremy)
 - UW eScience Python Seminar: Fall 2015: http://uwescience.github.io/python-seminar-2015/seminar/
-- AGU Fall Meeting 2015 Session: Python Solutions for the Earth Sciences: IN041 
+- AGU Fall Meeting 2015 Session: Python Solutions for the Earth Sciences: IN041
