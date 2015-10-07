@@ -1,4 +1,4 @@
-Data analysis tools for modern Python: pandas, xray, and beyond
+Data analysis tools for modern Python: pandas, xray, and beyond
 =======
 
 Speaker: Joe Hamman
