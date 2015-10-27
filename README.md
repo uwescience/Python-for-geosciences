@@ -19,7 +19,7 @@ In recent years, the Python programming language has emerged as a popular choice
 | Date | Speaker | Title |
 | ---- | ---- | ---- |
 | Oct. 6, 2015 | [Joe Hamman](http://joehamman.com/) | Data analysis tools for modern Python: pandas, xray, and beyond |
-| Nov. 3, 2015 | [Emilio Mayorga](http://staff.washington.edu/emiliom/) | TBD |
+| Nov. 3, 2015 | [Emilio Mayorga](http://staff.washington.edu/emiliom/) | Using conda and IPython notebooks to demo external data access libraries |
 | Dec. 1, 2015 | [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/) | TBD |
 
 
