@@ -22,9 +22,9 @@ In recent years, the Python programming language has emerged as a popular choice
 | Nov. 3, 2015 | [Emilio Mayorga](http://staff.washington.edu/emiliom/) | Using conda and IPython notebooks to demo external data access libraries |
 | Dec. 1, 2015 | [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/) | An Overview of the Python Scientific Stack |
 | Jan. 5, 2016 | [Charles Maalouf]() | Weather Forecasting and Correction of MOS Using Scikit-Learn |
-| Feb. 2, 2016 | [Johnny Lin](http://www.johnny-lin.com/index.shtml) | Dynamic data structures and first-class citizens: Python
-features that can make modeling more flexible and powerful |
-| Mar. 1, 2016 | [David Shean](http://psc.apl.uw.edu/people/students/david-shean/) and [Anthony Arendt](http://www.apl.washington.edu/people/profile.php?last_name=Arendt&first_name=Anthony) | Ice Python |
+| Feb. 2, 2016 | [Johnny Lin](http://www.johnny-lin.com/index.shtml) | Dynamic data structures and first-class citizens: Python \nfeatures that can make modeling more flexible and powerful |
+| Mar. 1, 2016 | No meeting. |
+| Apr. 5, 2016 | [David Shean](http://psc.apl.uw.edu/people/students/david-shean/) and [Anthony Arendt](http://www.apl.washington.edu/people/profile.php?last_name=Arendt&first_name=Anthony) | Ice Python |
 
 
 ### Other Workshops / Seminars / Resources:
