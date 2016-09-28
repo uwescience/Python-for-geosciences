@@ -1,11 +1,13 @@
-# Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server.
+# Title: Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server.
 
-Complex hydrologic and earth systems once coded in Fortran, C++ and cryptic scripts are being reconfigured in Open Source Python component based systems. In this workshop, we will demonstrate to participants one example of how this new type of modeling system, Landlab (introduced in the ending seminar of the [2015-2016 UW Python for Geosciences Seminar series](seminars_2015-2016.md)), can be linked to CUAHSI resources, such as the [Water Data Center](https://www.cuahsi.org/wdc) for time series data and [HydroShare](http://www.hydroshare.org) to run models online, access model inputs, and publish outputs for research collaboration and public dissemination.
+- **Presenters:** Christina Bandaragoda and Ronda Strauch, UW CEE
+- **Date:** October 4, 2016
+
+Complex hydrologic and earth systems once coded in Fortran, C++ and cryptic scripts are being reconfigured in Open Source Python component based systems. In this workshop, we will demonstrate to participants one example of how this new type of modeling system, Landlab (introduced in the ending seminar of the [2015-2016 UW Python for Geosciences Seminar series](https://github.com/emiliom/UW_Python_for_Geosciences/blob/master/seminars_2015-2016.md)), can be linked to CUAHSI resources, such as the [Water Data Center](https://www.cuahsi.org/wdc) for time series data and [HydroShare](http://www.hydroshare.org) to run models online, access model inputs, and publish outputs for research collaboration and public dissemination.
 
 In this seminar we re-introduce [Landlab](http://landlab.github.io/#/), a Python-based modeling environment, that facilitates building numerical landscape models of earth surface dynamics such as geomorphology, hydrology, ecohydrology, glaciology, and stratigraphy, and expanding open source collaborations.  We will also demonstrate a Landslide tutorial implemented online via Hydroshare.
-__________________
 
-To join along in the demonstration, follow these instructions:
+## To join along in the demonstration, follow these instructions:
 
 - **Go** to http://www.HydroShare.org and click on 'Sign up now' Blue Button to become a Hydroshare user
 - Create an **account** if you don’t have one. After filling out “Sign Up” profile, verify and activate account from your email (sent by HydroShare).
