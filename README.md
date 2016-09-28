@@ -4,11 +4,11 @@ Python in the Geosciences
 
 ### Time:
 
-1st Tuesday of the month, 3:30PM with Happy Hour or another eScience seminar to follow.
+1st Tuesday of the month, 3:30PM with Happy Hour or another [eScience Institute](http://escience.washington.edu) seminar to follow.
 
 ### Location:
 
-6th floor of the Physics Tower, Seminar Room C607 or C610
+6th floor of the [Physics/Astronomy Tower (PAT)](http://uw.edu/maps?pat), WRF Data Science Studio, Seminar Room C607 or C610
 
 ### Background:
 
