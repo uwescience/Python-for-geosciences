@@ -14,6 +14,8 @@ Python in the Geosciences
 
 In recent years, the Python programming language has emerged as a popular choice for geoscientists. Python is an easy to learn, easy to read, fast to write, open source, multi-platform platform language. Accompanying the Python language is a large community of free, open source projects that have facilitated rapid scientific development and data analysis. This informal seminar will focus on new and existing Python tools and applications within the geoscience community and aims to connect Python users across the UW campus.
 
+This is the second year this seminar series is held.
+
 ### Schedule
 
 | Date | Speaker | Title |
