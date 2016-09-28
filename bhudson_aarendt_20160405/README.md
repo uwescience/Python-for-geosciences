@@ -1,0 +1,4 @@
+# Title: Python tools for assessing glacier changes from satellite and airborne observations
+**Speakers:**  Anthony Arendt and Benjamin Hudson, Polar Science Center, Applied Physics Laboratory, UW (Anthony is also affiliated with the eScience Institute)
+
+The glaciological community has witnessed a rapid expansion in data availability and volume, through the launching of high resolution satellite and airborne sensing platforms. These observations are revealing intricate couplings between glacier changes and the state of surrounding ocean, climate and ecosystems. Predicting glacier change therefore requires computational tools that work across disciplines and that can accommodate complex gridded and vector data types. Here we describe our work to build glaciological cloud database and computing systems accessed using a variety of Python tools.
