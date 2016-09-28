@@ -24,7 +24,7 @@ In recent years, the Python programming language has emerged as a popular choice
 
 ### Seminars from 2015-2016 academic year
 
-[Past seminars from the 2015-2016 academic calendar.](seminars_2015-2016.md)
+[See the seminar listing and access materials from most of the seminars.](seminars_2015-2016.md)
 
 ### Other Workshops / Seminars / Resources:
 - **Link to AMS Sept 2016 Python session/workshop**
