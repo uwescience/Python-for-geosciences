@@ -4,7 +4,7 @@ Python in the Geosciences
 
 ### Time:
 
-1st Tuesday of the month, 3:30PM with Happy Hour to follow.
+1st Tuesday of the month, 3:30PM with Happy Hour or another eScience seminar to follow.
 
 ### Location:
 
@@ -18,13 +18,13 @@ In recent years, the Python programming language has emerged as a popular choice
 
 | Date | Speaker | Title |
 | ---- | ---- | ---- |
-| Oct. 6, 2015 | [Joe Hamman](http://joehamman.com/) | Data analysis tools for modern Python: pandas, xray, and beyond |
-| Nov. 3, 2015 | [Emilio Mayorga](http://staff.washington.edu/emiliom/) | Using conda and IPython notebooks to demo external data access libraries |
-| Dec. 1, 2015 | [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/) | An Overview of the Python Scientific Stack |
+| Oct. 4, 2016 | Christina Bandaragoda and Ronda Strauch | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](https://github.com/emiliom/UW_Python_for_Geosciences/blob/master/landlablandslides_20161004/README.md) |
+| Nov. 14, 2016 |  | No seminar, but please attend a [UW GeoHack Week](https://geohackweek.github.io/) open event on Google Earth Engine and Python! |
+| Dec. 6, 2016 | TBD. *Maybe*: David Shean, UW-APL | glaciers |
 
 ### Seminars from 2015-2016 academic year
 
-[seminars_2015-2016.md](seminars_2015-2016.md)
+[Past seminars from the 2015-2016 academic calendar.](seminars_2015-2016.md)
 
 ### Other Workshops / Seminars / Resources:
 - **Link to AMS Sept 2016 Python session/workshop**
