@@ -27,7 +27,7 @@ In recent years, the Python programming language has emerged as a popular choice
 [See the seminar listing and access materials from most of the seminars.](seminars_2015-2016.md)
 
 ### Other Workshops / Seminars / Resources:
-- **Link to AMS Sept 2016 Python session/workshop**
+- **Link to AMS September 2016 Python session/workshop**
 - Atmos-Python Workshop:atmos-python@uw.edu - (Andre or Jeremy)
-- UW eScience Python Seminar: Fall 2015: http://uwescience.github.io/python-seminar-2015/seminar/
-- AGU Fall Meeting 2015 Session: Python Solutions for the Earth Sciences: IN041
+- AGU Fall Meeting 2016 Session analogous to last year's Python Solutions for the Earth Sciences (IN041)?
+- UW eScience Python Seminar, Fall 2016? Or is this not happening this year?
