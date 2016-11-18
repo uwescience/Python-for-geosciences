@@ -22,7 +22,9 @@ This is the second year this seminar series is held.
 | ---- | ---- | ---- |
 | Oct. 4, 2016 | Christina Bandaragoda and Ronda Strauch | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](https://github.com/emiliom/UW_Python_for_Geosciences/blob/master/landlablandslides_20161004/README.md) |
 | Nov. 1, 2016 | Cancelled | No seminar, but please attend a [UW GeoHack Week](https://geohackweek.github.io/) open event on Google Earth Engine and Python, on Nov. 14. Same venue. |
-| Dec. 6, 2016 | TBD. *Maybe*: David Shean, UW-APL | glaciers |
+| Dec. 6, 2016 | TBD | |
+| -- |  **Winter 2017 Quarter** | -- |
+| Jan. 10, 2017 | (note changed date) David Shean, UW-APL | glaciers |
 
 ### Seminars from 2015-2016 academic year
 
