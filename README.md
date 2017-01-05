@@ -20,15 +20,16 @@ This is the second year this seminar series is held.
 
 | Date | Speaker | Title |
 | ---- | ---- | ---- |
-| Oct. 4, 2016 | Christina Bandaragoda and Ronda Strauch | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](landlablandslides_20161004/README.md) |
-| Nov. 1, 2016 | Cancelled | No seminar, but please attend a [UW GeoHack Week](https://geohackweek.github.io/) open event on Google Earth Engine and Python, on Nov. 14. Same venue. |
-| Dec. 6, 2016 | [Emilio Mayorga](http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio), UW-APL | GeoPandas and geospatial. Using [recent UW GeoHackWeek vector data materials as a launching point.](https://geohackweek.github.io/vector/) |
+| --- | **Fall 2016 Quarter** | --- |
+| Oct. 4 | Christina Bandaragoda and Ronda Strauch | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](landlablandslides_20161004/README.md) |
+| Nov. 1 | Cancelled | No seminar, but please attend a [UW GeoHack Week](https://geohackweek.github.io/) open event on Google Earth Engine and Python, on Nov. 14. Same venue. |
+| Dec. 6 | [Emilio Mayorga](http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio), UW-APL | GeoPandas and geospatial. Using [recent UW GeoHackWeek vector data materials as a launching point.](https://geohackweek.github.io/vector/) |
 | --- | **Winter 2017 Quarter** | --- |
-| Jan. 10, 2017 | (*note changed date*) [David Shean](http://apl.uw.edu/people/profile.php?last_name=Shean&first_name=David), UW-APL | glaciers |
-| Feb. 7, 2017 | TBD | TBD |
-| Mar. 7, 2017 | TBD | TBD |
-| Apr. 4, 2017 | TBD | TBD |
-| May 2, 2017 | TBD | TBD |
+| Jan. 10 | (*note changed date*) [David Shean](http://apl.uw.edu/people/profile.php?last_name=Shean&first_name=David), UW-APL | glaciers |
+| Feb. 7 | TBD | TBD |
+| Mar. 7 | TBD | TBD |
+| Apr. 4 | TBD | TBD |
+| May 2 | TBD | TBD |
 
 
 ### Seminars from 2015-2016 academic year
