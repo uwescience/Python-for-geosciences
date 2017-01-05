@@ -21,7 +21,7 @@ This is the second year this seminar series is held.
 | Date | Speaker | Title |
 | ------ | ---- | ---- |
 | --- | **Fall 2016 Quarter** | --- |
-| Oct. 4 | Christina Bandaragoda and Ronda Strauch | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](landlablandslides_20161004/README.md) |
+| Oct. 4 | Christina Bandaragoda and Ronda Strauch, UW CEE | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](landlablandslides_20161004/README.md) |
 | Nov. 1 | Cancelled | No seminar, but please attend a [UW GeoHack Week](https://geohackweek.github.io/) open event on Google Earth Engine and Python, on Nov. 14. Same venue. |
 | Dec. 6 | [Emilio Mayorga](http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio), UW-APL | GeoPandas and geospatial. Using [recent UW GeoHackWeek vector data materials as a launching point.](https://geohackweek.github.io/vector/) |
 | --- | **Winter 2017 Quarter** | --- |
