@@ -20,18 +20,23 @@ This is the second year this seminar series is held.
 
 | Date | Speaker | Title |
 | ---- | ---- | ---- |
-| Oct. 4, 2016 | Christina Bandaragoda and Ronda Strauch | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](https://github.com/emiliom/UW_Python_for_Geosciences/blob/master/landlablandslides_20161004/README.md) |
+| Oct. 4, 2016 | Christina Bandaragoda and Ronda Strauch | [Learning about landsliding by launching a Landlab Jupyter Notebook from a HydroShare server](landlablandslides_20161004/README.md) |
 | Nov. 1, 2016 | Cancelled | No seminar, but please attend a [UW GeoHack Week](https://geohackweek.github.io/) open event on Google Earth Engine and Python, on Nov. 14. Same venue. |
-| Dec. 6, 2016 | Emilio Mayorga, UW-APL | GeoPandas and geospatial. Using [recent UW GeoHackWeek vector data materials as a launching point.](https://geohackweek.github.io/vector/) |
+| Dec. 6, 2016 | [Emilio Mayorga](http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio), UW-APL | GeoPandas and geospatial. Using [recent UW GeoHackWeek vector data materials as a launching point.](https://geohackweek.github.io/vector/) |
 | --- | **Winter 2017 Quarter** | --- |
-| Jan. 10, 2017 | (*note changed date*) David Shean, UW-APL | glaciers |
+| Jan. 10, 2017 | (*note changed date*) [David Shean](http://apl.uw.edu/people/profile.php?last_name=Shean&first_name=David), UW-APL | glaciers |
+| Feb. 7, 2017 | TBD | TBD |
+| Mar. 7, 2017 | TBD | TBD |
+| Apr. 4, 2017 | TBD | TBD |
+| May 2, 2017 | TBD | TBD |
+
 
 ### Seminars from 2015-2016 academic year
 
 [See the seminar listing and access materials from most of the seminars.](seminars_2015-2016.md)
 
 ### Other Workshops / Seminars / Resources:
-- **Link to AMS September 2016 Python session/workshop**
-- Atmos-Python Workshop:atmos-python@uw.edu - (Andre or Jeremy)
+- Atmos-Python Workshop: atmos-python@uw.edu (Andre or Jeremy)
+- [AMS Seventh Symposium on Advances in Modeling and Analysis Using Python, Jan. 23-24, 2017. Seattle.](https://annual.ametsoc.org/2017/index.cfm/programs/conferences-and-symposia/seventh-symposium-on-advances-in-modeling-and-analysis-using-python/)
 - AGU Fall Meeting 2016 Session analogous to last year's Python Solutions for the Earth Sciences (IN041)?
-- UW eScience Python Seminar, Fall 2016? Or is this not happening this year?
+- UW eScience Python Seminar, Winter 2017? Or is this not happening this year?
