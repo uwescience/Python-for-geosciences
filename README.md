@@ -25,7 +25,7 @@ This is the second year this seminar series is held.
 | Nov. 1 | Cancelled | No seminar, but please attend a [UW GeoHack Week](https://geohackweek.github.io/) open event on Google Earth Engine and Python, on Nov. 14. Same venue. |
 | Dec. 6 | [Emilio Mayorga](http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio), UW-APL | GeoPandas and geospatial. Using [recent UW GeoHackWeek vector data materials as a launching point.](https://geohackweek.github.io/vector/) |
 | --- | **Winter 2017 Quarter** | --- |
-| Jan. 10 | (*note changed date*) [David Shean](https://github.com/dshean), UW-APL | glaciers and ice flows |
+| Jan. 10 | [David Shean](https://github.com/dshean), UW-APL | [My tools for data processing and interactively viewing rasters, specially time series of high-resolution DEMs](https://github.com/uwescience/Python-for-geosciences/blob/master/dshean_2017010/README.md) |
 | Feb. 7 | TBD | TBD |
 | Mar. 7 | TBD | TBD |
 | --- | **Spring 2017 Quarter** | --- |
