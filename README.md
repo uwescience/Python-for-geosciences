@@ -27,7 +27,7 @@ This is the second year this seminar series is held. It was initiated in Fall 20
 | --- | **Winter 2017 Quarter** | --- |
 | Jan. 10 | [David Shean](https://github.com/dshean), UW-APL | [My tools for data processing and interactively viewing rasters, specially time series of high-resolution DEMs](https://github.com/uwescience/Python-for-geosciences/blob/master/dshean_2017010/README.md) |
 | Feb. 7 | [Karl Smith](https://github.com/karlmsmith), UW-JISAO & NOAA | [Simplified Data Handling, Analysis, and Visualization Using PyFerret](https://github.com/uwescience/Python-for-geosciences/blob/master/ksmith_20170207/README.md) |
-| Mar. 7 | TBD | TBD |
+| Mar. 7 | [Anthony Arendt](http://www.apl.washington.edu/people/profile.php?last=Arendt&first=Anthony) and [Emilio Mayorga](http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio), UW-APL | Tools for accessing climate site data. A hands-on, interactive session. |
 | --- | **Spring 2017 Quarter** | --- |
 | Apr. 4 | TBD | TBD |
 | May 2 | TBD | TBD |
