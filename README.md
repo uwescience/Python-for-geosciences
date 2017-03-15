@@ -16,6 +16,10 @@ In recent years, the Python programming language has emerged as a popular choice
 
 This is the second year this seminar series is held. It was initiated in Fall 2015 by [Joe Hamman](https://github.com/jhamman/) (formerly at UW-CEE) and [Emilio Mayorga](https://github.com/emiliom/) (UW-APL), and is currently coordinated by Emilio. Thanks go to the [eScience Institute](http://escience.washington.edu) for their support in hosting the seminars from the start!
 
+### Mailing list
+
+We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if you're subscribed, feel free to send an email on a relevant topic! You may subscribe, unsubscribe or change your settings, at [this link](https://mailman1.u.washington.edu/mailman/listinfo/python_for_geoscience).
+
 ### Schedule
 
 | Date | Speaker | Title |
@@ -32,9 +36,7 @@ This is the second year this seminar series is held. It was initiated in Fall 20
 | Apr. 4 | [Adrian Prananda](https://github.com/map34), [MicaSense](https://www.micasense.com) | (Tentative title) Data processing for remote sensing sensors on drones. |
 | May 2 | TBD | TBD |
 
-
 ### Seminars from 2015-2016 academic year
-
 [See the seminar listing and access materials from most of the seminars.](seminars_2015-2016.md)
 
 ### Other Workshops / Seminars / Resources:
