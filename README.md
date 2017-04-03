@@ -33,7 +33,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Feb. 7 | [Karl Smith](https://github.com/karlmsmith), UW-JISAO & NOAA | [Simplified Data Handling, Analysis, and Visualization Using PyFerret](https://github.com/uwescience/Python-for-geosciences/blob/master/ksmith_20170207/README.md) |
 | Mar. 7 | [Anthony Arendt](http://www.apl.washington.edu/people/profile.php?last=Arendt&first=Anthony) and [Emilio Mayorga](http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio), UW-APL | [Tools for accessing climate site data. A hands-on, interactive session.](https://github.com/uwescience/Python-for-geosciences/tree/master/20170307/README.md) |
 | --- | **Spring 2017 Quarter** | --- |
-| Apr. 4 | [Adrian Prananda](https://github.com/map34), [MicaSense](https://www.micasense.com) | (Tentative title) Data processing for remote sensing sensors on drones. |
+| Apr. 4 | [Adrian Prananda](https://github.com/map34) and Brent Bradbury, [MicaSense](https://www.micasense.com) | [Cloud-Based Platform for Drone-Based Multispectral Imaging.](https://github.com/uwescience/Python-for-geosciences/blob/master/micasense_20170404/README.md) |
 | May 2 | TBD | TBD |
 
 ### Seminars from 2015-2016 academic year
