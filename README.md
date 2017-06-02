@@ -35,7 +35,10 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | --- | **Spring 2017 Quarter** | --- |
 | Apr. 4 | [Adrian Prananda](https://github.com/map34) and Brent Bradbury, [MicaSense](https://www.micasense.com) | [Cloud-Based Platform for Drone-Based Multispectral Imaging.](https://github.com/uwescience/Python-for-geosciences/blob/master/micasense_20170404/README.md) |
 | May 2 | Cancelled | No seminar |
-| June 6 | TBD | TBD |
+| June 6 | Cancelled | No seminar |
+| --- | **Summer 2017** | --- |
+| Jul. 19 *Note special date!* | [Parker MacCready](http://faculty.washington.edu/pmacc/index.html), UW Oceanography | General topic: How Python facilitates regional ocean circulation model management |
+
 
 ### Seminars from 2015-2016 academic year
 [See the seminar listing and access materials from most of the seminars.](seminars_2015-2016.md)
