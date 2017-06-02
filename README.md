@@ -37,7 +37,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | May 2 | Cancelled | No seminar |
 | June 6 | Cancelled | No seminar |
 | --- | **Summer 2017** | --- |
-| Jul. 19 *Note special date!* | [Parker MacCready](http://faculty.washington.edu/pmacc/index.html), UW Oceanography | General topic: How Python facilitates regional ocean circulation model management |
+| **Jul. 19 10-11am** *Note special date and time!* | [Parker MacCready](http://faculty.washington.edu/pmacc/index.html), UW Oceanography | General topic: How Python facilitates regional ocean circulation model management |
 
 
 ### Seminars from 2015-2016 academic year
