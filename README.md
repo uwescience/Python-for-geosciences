@@ -24,12 +24,12 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 
 | Date | Speaker | Title |
 | ------ | ---- | ---- |
-| --- | **Fall 2017 Quarter** | --- |
-| Oct. 3 | [Andrew Bennett](http://arbennett.github.io/), UW CEE | [MetSim](https://github.com/UW-Hydro/MetSim), a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications |
+| &nbsp; | **Fall 2017 Quarter** | &nbsp; |
+| Oct. 3 | [Andrew Bennett](https://github.com/arbennett), UW CEE | [MetSim](https://github.com/UW-Hydro/MetSim), a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications |
 | Nov. 7 | TBD | TBD |
 | Dec. 5 | TBD | TBD |
-
-| --- | **Winter 2018 Quarter** | --- |
+| &nbsp; | **Winter 2018 Quarter** | &nbsp; |
+| TBD | TBD | TBD |
 
 
 ### Seminars from previous academic years
