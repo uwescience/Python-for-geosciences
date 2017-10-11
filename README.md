@@ -29,7 +29,8 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Nov. 7 | [Aji John](https://github.com/ajijohn), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) | TBD, but very roughly: "Using near-real-time remotely-sensed environmental data to create biophysical models of organisms" |
 | Dec. 5 | [Tony Cannistra](http://anthonycannistra.com/about/), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) & [eScience](http://escience.washington.edu) | TBD |
 | &nbsp; | **Winter 2018 Quarter** | &nbsp; |
-| TBD | TBD | TBD |
+| Jan. 9 | TBD | TBD (note changed date) |
+| Feb. 6 | [Yixin Mao](http://uw-hydro.github.io/current_member/yixin_mao), UW CEE ([Hydro &#124; Computational Hydrology group](http://uw-hydro.github.io/)) | TBD |
 
 
 ### Seminars from previous academic years
