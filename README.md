@@ -26,7 +26,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | ------ | ---- | ---- |
 | &nbsp; | **Fall 2017 Quarter** | &nbsp; |
 | Oct. 3 | [Andrew Bennett](https://github.com/arbennett), UW CEE | [MetSim, and lessons learned in legacy rewrites](https://github.com/uwescience/Python-for-geosciences/tree/master/20171003/README.md) |
-| Nov. 7 | [Aji John](https://github.com/ajijohn), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) | Realtime climate data acquisition using Amazon AWS Lambda |
+| Nov. 7 | [Aji John](https://github.com/ajijohn), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) | [Realtime climate data acquisition using Amazon AWS Lambda](https://github.com/uwescience/Python-for-geosciences/tree/master/20171107/README.md) |
 | Dec. 5 | [Tony Cannistra](http://anthonycannistra.com/about/), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) & [eScience](http://escience.washington.edu) | TBD |
 | &nbsp; | **Winter 2018 Quarter** | &nbsp; |
 | Jan. 9 | TBD | TBD (note changed date) |
