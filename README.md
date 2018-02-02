@@ -30,7 +30,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Dec. 5 | [Tony Cannistra](http://anthonycannistra.com/about/), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) & [eScience](http://escience.washington.edu) | [Process Discussion: Two Geospatial Analysis Challenges](https://github.com/uwescience/Python-for-geosciences/tree/master/tcannistra_20171205/README.md) |
 | &nbsp; | **Winter 2018 Quarter** | &nbsp; |
 | Jan. 9 | Cancelled | Cancelled |
-| Feb. 6 | [Yixin Mao](http://uw-hydro.github.io/current_member/yixin_mao), UW CEE ([Hydro &#124; Computational Hydrology group](http://uw-hydro.github.io/)) | TBD |
+| Feb. 6 | [Yixin Mao](http://uw-hydro.github.io/current_member/yixin_mao), UW CEE ([Hydro &#124; Computational Hydrology group](http://uw-hydro.github.io/)) | Preliminary: Using Python to improve management and component linkage of integrated large-scale hydrological data assimilation |
 | Mar. 6 | [Don Setiawan](https://github.com/lsetiawan/), [UW APL](http://apl.uw.edu/) | Preliminary: Python and R via JupyterHub and server RStudio |
 
 
