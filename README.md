@@ -33,7 +33,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Feb. 6 | [Yixin Mao](http://uw-hydro.github.io/current_member/yixin_mao), UW CEE ([Hydro &#124; Computational Hydrology group](http://uw-hydro.github.io/)) | [Python as a tool to build large-scale geoscience systems - An example on a hydrologic data assimilation system](https://github.com/uwescience/Python-for-geosciences/blob/master/20180206/README.md) |
 | Mar. 6 | [Don Setiawan](https://github.com/lsetiawan/), [UW APL](http://apl.uw.edu/) |[ Python and R on the Cloud via JupyterHub and RStudio server](https://github.com/uwescience/Python-for-geosciences/blob/master/20180306/README.md) |
 | &nbsp; | **Spring 2018 Quarter** | &nbsp; |
-| Apr. 3 | Russell Kramer, [UW SEFS](http://www.sefs.uw.edu/) | Preliminary: 3D visualization of trees |
+| Apr. 3 | Russell Kramer, [UW SEFS](http://www.sefs.uw.edu/) (Franklin Lab) | [Visualizing and error checking data from three-dimensionally mapped trees using *Sitchensis*, a python-based tool for exploring tree-crown structure](https://github.com/uwescience/Python-for-geosciences/blob/master/20180403/README.md) |
 | May 1 | [Scott Henderson](http://scottyhq.github.io), [UW eScience](http://escience.washington.edu) | Preliminary: Satellite radar image processing with Python on AWS |
 
 
