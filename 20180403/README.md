@@ -1,0 +1,5 @@
+## 2018-04-03. Visualizing and error checking data from three-dimensionally mapped trees using *Sitchensis*, a python-based tool for exploring tree-crown structure
+
+**Russell Kramer, [UW School of Environmental and Forest Sciences (SEFS)](http://www.sefs.washington.edu/), Franklin Lab**
+
+Scientific teams climb and manually map within tree-crown features of large trees for ecological studies. These data are used to quantify available canopy habitat for various organisms as well as specific attributes of individual trees relating to forest ecosystem function.  Prior to analysis, these spatially explicit data must be screened for errors, and post analysis these data need to be conveyed to readers in a visual form. As a self-taught developer I designed Sitchensis to streamline and automate prior manual methods utilizing Microsoft excel to accomplish these tasks. I am presenting my current working model of *Sitchensis* to demonstrate its abilities and get feedback as to how to package this into a stand-alone program usable across both Mac and PC platforms.
