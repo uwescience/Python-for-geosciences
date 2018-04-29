@@ -34,7 +34,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Mar. 6 | [Don Setiawan](https://github.com/lsetiawan/), [UW APL](http://apl.uw.edu/) |[ Python and R on the Cloud via JupyterHub and RStudio server](https://github.com/uwescience/Python-for-geosciences/blob/master/20180306/README.md) |
 | &nbsp; | **Spring 2018 Quarter** | &nbsp; |
 | Apr. 3 | Russell Kramer, [UW SEFS](http://www.sefs.uw.edu/) (Franklin Lab) | [Visualizing and error checking data from three-dimensionally mapped trees using *Sitchensis*, a python-based tool for exploring tree-crown structure](https://github.com/uwescience/Python-for-geosciences/blob/master/20180403/README.md) |
-| May 1 | [Scott Henderson](http://scottyhq.github.io), [UW eScience](http://escience.washington.edu) | Preliminary: Satellite radar image processing with Python on AWS |
+| May 1 | [Scott Henderson](http://scottyhq.github.io), [UW eScience](http://escience.washington.edu) | [Satellite radar image processing with python on Amazon Web Services (AWS)](https://github.com/uwescience/Python-for-geosciences/tree/master/20180501/README.md) |
 
 
 ### Seminars from previous academic years
