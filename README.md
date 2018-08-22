@@ -24,24 +24,20 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 
 | Date | Speaker | Title |
 | ------ | ---- | ---- |
-| &nbsp; | **Fall 2017 Quarter** | &nbsp; |
-| Oct. 3 | [Andrew Bennett](https://github.com/arbennett), UW CEE | [MetSim, and lessons learned in legacy rewrites](https://github.com/uwescience/Python-for-geosciences/tree/master/20171003/README.md) |
-| Nov. 7 | [Aji John](https://github.com/ajijohn), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) | [Realtime climate data acquisition using Amazon AWS Lambda](https://github.com/uwescience/Python-for-geosciences/tree/master/20171107/README.md) |
-| Dec. 5 | [Tony Cannistra](http://anthonycannistra.com/about/), UW Biology ([Buckley Lab](http://faculty.washington.edu/lbuckley/)) & [eScience](http://escience.washington.edu) | [Process Discussion: Two Geospatial Analysis Challenges](https://github.com/uwescience/Python-for-geosciences/tree/master/tcannistra_20171205/README.md) |
-| &nbsp; | **Winter 2018 Quarter** | &nbsp; |
-| Jan. 9 | Cancelled | Cancelled |
-| Feb. 6 | [Yixin Mao](http://uw-hydro.github.io/current_member/yixin_mao), UW CEE ([Hydro &#124; Computational Hydrology group](http://uw-hydro.github.io/)) | [Python as a tool to build large-scale geoscience systems - An example on a hydrologic data assimilation system](https://github.com/uwescience/Python-for-geosciences/blob/master/20180206/README.md) |
-| Mar. 6 | [Don Setiawan](https://github.com/lsetiawan/), [UW APL](http://apl.uw.edu/) |[ Python and R on the Cloud via JupyterHub and RStudio server](https://github.com/uwescience/Python-for-geosciences/blob/master/20180306/README.md) |
-| &nbsp; | **Spring 2018 Quarter** | &nbsp; |
-| Apr. 3 | Russell Kramer, [UW SEFS](http://www.sefs.uw.edu/) (Franklin Lab) | [Visualizing and error checking data from three-dimensionally mapped trees using *Sitchensis*, a python-based tool for exploring tree-crown structure](https://github.com/uwescience/Python-for-geosciences/blob/master/20180403/README.md) |
-| May 1 | [Scott Henderson](http://scottyhq.github.io), [UW eScience](http://escience.washington.edu) | [Satellite radar image processing with python on Amazon Web Services (AWS)](https://github.com/uwescience/Python-for-geosciences/tree/master/20180501/README.md) |
+| &nbsp; | **Fall 2018 Quarter** | &nbsp; |
+| Sep. 4 | [Emilio Mayorga](https://github.com/emiliom), UW APL | We'll discuss the seminar series: what's working, what should be changed. |
+| Oct. 2 | TBD | TBD |
+| Nov. 6 | TBD | TBD |
+| Dec. 4 | TBD | TBD |
+| &nbsp; | **Winter 2019 Quarter** | &nbsp; |
 
 
 ### Seminars from previous academic years
 See the seminar listings and access materials from most of the seminars
+- [2017 - 2018](seminars_2017-2018.md)
 - [2016 - 2017](seminars_2016-2017.md)
 - [2015 - 2016](seminars_2015-2016.md)
 
 ### Other Workshops / Seminars / Resources:
-- Atmos-Python Workshop: atmos-python@uw.edu (Andre or Jeremy)
-- UW eScience Python Seminar, Fall 2017?
+- Atmos-Python Workshop: atmos-python@uw.edu (Andre or Jeremy -- not sure if these are still going)
+- Others?
