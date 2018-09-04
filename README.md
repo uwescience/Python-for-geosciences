@@ -14,7 +14,7 @@ Python in the Geosciences
 
 In recent years, the Python programming language has emerged as a popular choice for geoscientists. Python is an easy to learn, easy to read, fast to write, open source, multi-platform platform language. Accompanying the Python language is a large community of free, open source projects that have facilitated rapid scientific development and data analysis. This informal seminar series focuses on new and existing Python tools and applications within the geoscience community and aims to connect Python users across the UW campus.
 
-This seminar series was started in Fall 2015 by [Joe Hamman](https://github.com/jhamman/) (formerly at UW-CEE, now with NCAR) and [Emilio Mayorga](https://github.com/emiliom/) (UW-APL), and is currently coordinated by Emilio with help from Anthony Arendt (UW-APL & eScience Institute) and Don Setiawan (UW-APL). Thanks go to the [eScience Institute](http://escience.washington.edu) for their support in hosting the seminars from the start!
+This seminar series was started in Fall 2015 by [Joe Hamman](https://github.com/jhamman/) (NCAR but Seattle based; formerly at UW-CEE) and [Emilio Mayorga](https://github.com/emiliom/) (UW-APL), and is currently coordinated by Emilio with help from Anthony Arendt (UW-APL & eScience Institute). Thanks go to the [eScience Institute](http://escience.washington.edu) for their support in hosting the seminars from the start, and to Don Setiawan (UW Oceanography & eScience, formerly at UW-APL) for his past help.
 
 ### Mailing list
 
