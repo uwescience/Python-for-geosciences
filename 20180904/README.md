@@ -30,7 +30,7 @@ Areas that could be changed:
 
 - Only one person attended, probably because classes haven't started yet. These notes reflect only her input.
 - Liked Tony's presentation last year, his focus on **his science** and data sources; but her work happened to overlap with Tony's emphasis, so there was a pre-existing linkage. He had no slides! And very little about Python
-- Also liked Scott's presentation, but not as much. Felt that there was too much material, code, to absorb. Useful, but not as interactive as Tony's
+- Also liked Scott's presentation, but in a different way. Felt that there was too much material, code, to absorb during the presentation. But it was presented with good description of need, motivations. Useful, but not as interactive as Tony's
 - The variety in seminars has been good, though
 - Great to have all levels of people involved, as participants and also as presenters
 - Participation will vary. People will make decisions on attending a particular seminar based on perceived overlap between presentation and their own interests
