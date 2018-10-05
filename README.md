@@ -27,7 +27,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | &nbsp; | **Fall 2018 Quarter** | &nbsp; |
 | Sep. 4 | [Emilio Mayorga](https://github.com/emiliom), UW APL | [We'll discuss the seminar series: what's working, what should be changed.](https://github.com/uwescience/Python-for-geosciences/tree/master/20180904/) |
 | Oct. 2 | [Emilio Mayorga](https://github.com/emiliom), UW APL | [About the seminar series; nice Python tutorials; and maybe river networks and watershed hierarchies](http://mailman11.u.washington.edu/pipermail/python_for_geoscience/2018-October/000042.html) |
-| Nov. 6 | [Noah Brenowitz](http://www.noahbrenowitz.com/), UW eScience & Atmospheric Sciences | Preliminary: Analysis of climate models with neural networks |
+| Nov. 6 | [Noah Brenowitz](http://www.noahbrenowitz.com/), UW eScience & Atmospheric Sciences | Tentative: Improving climate models using neural networks |
 | Dec. 4 | TBD | TBD |
 | &nbsp; | **Winter 2019 Quarter** | &nbsp; |
 
