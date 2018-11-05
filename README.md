@@ -38,6 +38,17 @@ See the seminar listings and access materials from most of the seminars
 - [2016 - 2017](seminars_2016-2017.md)
 - [2015 - 2016](seminars_2015-2016.md)
 
+
+### Instructions for presenters
+
+Please send us a final title and a brief summary/abstract by Sunday before the seminar. [Here's an example of a good abstract](https://github.com/uwescience/Python-for-geosciences/blob/master/20181106/README.md), but there are many others in the seminar web site. In the abstract, try to touch on what science you're addressing, what methods you use, and main Python tools / packages you use.
+
+Some general information about the seminars and logistics:
+
+- We have one hour for the seminar. Typically you can plan on speaking through the end, but with interruptions for questions and interactions throughout the hour. We usually have about 10-15 people.
+- A mix of slides and active demos (running code live) usually works best. But it's obviously up to you.
+- We have a good UW WiFi connection
+
 ### Other Workshops / Seminars / Resources:
 - Atmos-Python Workshop: atmos-python@uw.edu (Andre or Jeremy -- not sure if these are still going)
 - Others?
