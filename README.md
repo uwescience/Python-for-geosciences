@@ -28,7 +28,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Sep. 4 | [Emilio Mayorga](https://github.com/emiliom), UW APL | [We'll discuss the seminar series: what's working, what should be changed.](https://github.com/uwescience/Python-for-geosciences/tree/master/20180904/) |
 | Oct. 2 | [Emilio Mayorga](https://github.com/emiliom), UW APL | [About the seminar series; nice Python tutorials; and maybe river networks and watershed hierarchies](http://mailman11.u.washington.edu/pipermail/python_for_geoscience/2018-October/000042.html) |
 | Nov. 6 | [Noah Brenowitz](http://www.noahbrenowitz.com/), UW eScience & Atmospheric Sciences | [Using python for machine learning with large gridded datasets](https://github.com/uwescience/Python-for-geosciences/tree/master/20181106/) |
-| Dec. 4 | TBD | TBD |
+| Dec. 4 | Christina Bandaragoda, UW Civil & Environmental Eng. | [Observatory for Gridded Hydrometeorology (OGH): automated retrieval, preprocessing, and visualization for spatial-temporal analysis](https://github.com/uwescience/Python-for-geosciences/tree/master/20181204/) |
 | &nbsp; | **Winter 2019 Quarter** | &nbsp; |
 
 
