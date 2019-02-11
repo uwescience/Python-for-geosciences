@@ -31,7 +31,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Dec. 4 | Christina Bandaragoda, UW Civil & Environmental Eng. | [Observatory for Gridded Hydrometeorology (OGH): automated retrieval, preprocessing, and visualization for spatial-temporal analysis](https://github.com/uwescience/Python-for-geosciences/tree/master/20181204/) |
 | &nbsp; | **Winter 2019 Quarter** | &nbsp; |
 | Feb. 5 | &nbsp; | Cancelled |
-| **Feb. 26** | Erkan Istanbulluoglu, Christina Bandaragoda, Amanda Manaster and Sai Siddhartha, UW CEE | *(Note special date -- instead of March 5)* Landlab modeling framework and use cases  |
+| **Feb. 26** | Amanda Manaster, Sai Siddhartha, Erkan Istanbulluoglu, Christina Bandaragoda, UW CEE | *(Note special date -- instead of March 5)* Landlab modeling framework and use cases  |
 | Apr. 2 | TBD | TBD |
 | May 7 | TBD | TBD |
 | Jun. 4 | TBD | TBD |
