@@ -31,8 +31,8 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Dec. 4 | Christina Bandaragoda, UW Civil & Environmental Eng. | [Observatory for Gridded Hydrometeorology (OGH): automated retrieval, preprocessing, and visualization for spatial-temporal analysis](https://github.com/uwescience/Python-for-geosciences/tree/master/20181204/) |
 | &nbsp; | **Winter 2019 Quarter** | &nbsp; |
 | Feb. 5 | &nbsp; | Cancelled |
-| Mar. 5 | Amanda Manaster and Sai S. Nudurupati, UW CEE | [Landlab modeling framework and use cases](https://github.com/uwescience/Python-for-geosciences/tree/master/20190305/)  |
-| Apr. 2 | TBD | TBD |
+| Mar. 5 | Amanda Manaster and Sai S. Nudurupati, UW CEE | [Landlab modeling framework and use cases](https://github.com/uwescience/Python-for-geosciences/tree/master/20190305/) (Cancelled) |
+| Apr. 2 | [Emilio Mayorga](https://github.com/emiliom/), UW APL | [Rivers and watersheds: Hacking on packages, API's and datasets for river network and watershed characterization](https://github.com/uwescience/Python-for-geosciences/tree/master/20190402/) |
 | May 7 | TBD | TBD |
 | Jun. 4 | TBD | TBD |
 
