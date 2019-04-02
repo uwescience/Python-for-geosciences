@@ -19,7 +19,7 @@ I've created a [conda environment file that includes most of these packages](htt
 
 1. **ModelMyWatershed.** Web appication demo, delineating US watersheds big and small. TauDEM + RWD in the backend. [https://modelmywatershed.org](https://modelmywatershed.org/). And corresponding [web service API jupyter notebook example](http://nbviewer.jupyter.org/github/WikiWatershed/model-my-watershed/blob/develop/doc/MMW_API_watershed_demo.ipynb).
 2. **NLDI, Hydro Network-Linked Data Index.** [https://owi.usgs.gov/blog/nldi-intro/](https://owi.usgs.gov/blog/nldi-intro/)
-3. **GeoHackWeek Vector Advanced tutorial, HydroBASINS example.** [HydroBASINS watershed code querying and use example](https://nbviewer.jupyter.org/github/geohackweek/tutorial_contents/blob/master/vector/notebooks/geopandas_advanced.ipynb)
+3. **GeoHackWeek Vector Advanced tutorial, HydroBASINS example.** [HydroBASINS watersheds jupyter notebook illustrating pfastetter watershed code querying and use, plus `rasterstats` polygon-on-raster zonal statistics](https://nbviewer.jupyter.org/github/geohackweek/tutorial_contents/blob/master/vector/notebooks/geopandas_advanced.ipynb)
 4. **WaterHackWeek pysheds example.** See [here](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro/blob/master/WatershedExtractionAndProperties_pysheds_Emilio.ipynb) (AND ADD TO IT NOW FROM THE DEVELOPER'S EXAMPLE OF MULTI-WATERSHEDS!)
 5. My Costa Rica proposal notebook, HydroBasin watershed properties and tabular compilation
 6. `anytree` CR example?
