@@ -21,5 +21,5 @@ I've created a [conda environment file that includes most of these packages](htt
 2. **NLDI, Hydro Network-Linked Data Index.** [https://owi.usgs.gov/blog/nldi-intro/](https://owi.usgs.gov/blog/nldi-intro/)
 3. **GeoHackWeek Vector Advanced tutorial, HydroBASINS example.** [HydroBASINS watersheds jupyter notebook illustrating pfastetter watershed code querying and use, plus `rasterstats` polygon-on-raster zonal statistics](https://nbviewer.jupyter.org/github/geohackweek/tutorial_contents/blob/master/vector/notebooks/geopandas_advanced.ipynb)
 4. **WaterHackWeek pysheds example.** See [here](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro/blob/master/WatershedExtractionAndProperties_pysheds_Emilio.ipynb) (AND ADD TO IT NOW FROM THE DEVELOPER'S EXAMPLE OF MULTI-WATERSHEDS!)
-5. My Costa Rica proposal notebook, HydroBasin watershed properties and tabular compilation
+5. **Costa Rica watershed properties notebook.** Uses HydroBASIN watersheds, `rasterstats`, and nifty dataframe compilation of calculated properties. Notebook is [here](https://github.com/emiliom/uwfreshwater_em/blob/master/CostaRica_WatershedProperties.ipynb)
 6. `anytree` CR example?
