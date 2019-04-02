@@ -11,3 +11,15 @@ https://github.com/emiliom/uwfreshwater_em/blob/master/RiverNetworksWatersheds_T
 I'll add more information to this document by Tuesday, including links to Jupyter notebooks.
 
 Tools we'll consider and their underlying packages include HydroShare, TauDEM, Landlab, pysheds, NLDI (hydro Network-Linked Data Index), anytree, GeoPandas and rasterio. Datasets may include global datasets (HydroSHEDS, HydroBASINS, STN-30p), national US datasets (HUCs, WBD, NHDplus), regional datasets (e.g., ArcticDEM) or high-resolution local datasets.
+
+I've created a [conda environment file that includes most of these packages](https://github.com/uwescience/Python-for-geosciences/blob/master/20190402/environment.yml). Download it, then create the environment with `conda env create -f environment.yml`.
+
+
+### Examples I'll start out with
+
+1. **ModelMyWatershed.** Web appication demo, delineating US watersheds big and small. TauDEM + RWD in the backend. [https://modelmywatershed.org](https://modelmywatershed.org/). And corresponding [web service API jupyter notebook example](http://nbviewer.jupyter.org/github/WikiWatershed/model-my-watershed/blob/develop/doc/MMW_API_watershed_demo.ipynb).
+2. **NLDI, Hydro Network-Linked Data Index.** [https://owi.usgs.gov/blog/nldi-intro/](https://owi.usgs.gov/blog/nldi-intro/)
+3. **GeoHackWeek Vector Advanced tutorial, HydroBASINS example.** [HydroBASINS watershed code querying and use example](https://nbviewer.jupyter.org/github/geohackweek/tutorial_contents/blob/master/vector/notebooks/geopandas_advanced.ipynb)
+4. **WaterHackWeek pysheds example.** See [here](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro/blob/master/WatershedExtractionAndProperties_pysheds_Emilio.ipynb) (AND ADD TO IT NOW FROM THE DEVELOPER'S EXAMPLE OF MULTI-WATERSHEDS!)
+5. My Costa Rica proposal notebook, HydroBasin watershed properties and tabular compilation
+6. `anytree` CR example?
