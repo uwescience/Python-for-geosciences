@@ -1,0 +1,24 @@
+name: rivwtshd
+channels:  
+  - conda-forge
+dependencies:
+  - python
+  - ipython
+  - ipykernel
+  - requests
+  - geopandas
+  - geojson
+  - rasterstats
+  - ulmo
+  - matplotlib
+  - seaborn
+  - cartopy
+  - folium
+  - xlrd
+  - pysheds
+  - landlab
+  - pip:
+    - git+https://github.com/phobson/watershed.git
+    - git+https://github.com/c0fec0de/anytree.git
+    - git+https://github.com/caesar0301/treelib.git
+  
