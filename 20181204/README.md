@@ -8,4 +8,4 @@ Spatially-distributed time-series data support a range of environmental modeling
 
 See the GitHub repository at [https://github.com/Freshwater-Initiative/Observatory](https://github.com/Freshwater-Initiative/Observatory)
 
-Phuong, J., C. Bandaragoda, E. Istanbulluoglu, C. Beveridge, R. Strauch; L. Setiawan; S. D. Mooney. (2018) Automated retrieval, preprocessing, and visualization of gridded hydrometeorology data products for spatial-temporal exploratory analysis and intercomparison, Env. Modeling & Software, (submitted, in revision)
+Phuong, J., C. Bandaragoda, E. Istanbulluoglu, C. Beveridge, R. Strauch; L. Setiawan; S. D. Mooney. (2019) Automated retrieval, preprocessing, and visualization of gridded hydrometeorology data products for spatial-temporal exploratory analysis and intercomparison, Env. Modeling & Software 116:119-130, https://doi.org/10.1016/j.envsoft.2019.01.007
