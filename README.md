@@ -34,7 +34,7 @@ We use the *python_for_geoscience[at]uw.edu* list to announce seminars. But if y
 | Mar. 5 | Amanda Manaster and Sai S. Nudurupati, UW CEE | [Landlab modeling framework and use cases](https://github.com/uwescience/Python-for-geosciences/tree/master/20190305/) (Cancelled) |
 | Apr. 2 | [Emilio Mayorga](https://github.com/emiliom/), UW APL | [Rivers and watersheds: Hacking on packages, API's and datasets for river network and watershed characterization](https://github.com/uwescience/Python-for-geosciences/tree/master/20190402/) |
 | May 7 | [Jon Connolly](https://github.com/joncon), [Pacific Northwest Seismic Network](https://pnsn.org) | [Python Performance Evaluation Tools to Prepare a Traditional Regional Seismic Network for Earthquake Early Warning](https://github.com/uwescience/Python-for-geosciences/tree/master/20190507) |
-| Jun. 4 | TBD | TBD |
+| Jun. 4 | - | No seminar (too close to end of Quarter) |
 
 ### Seminars from previous academic years
 See the seminar listings and access materials from most of the seminars
